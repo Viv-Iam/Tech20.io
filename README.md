@@ -1,6 +1,9 @@
 # Tech2o
 ## Description
-Water Search Web App.
+TecH₂O is a web app that utilizes satellite and crowd-sourced data to avail realtime information on fluctuating water levels across the globe
+
+## NASA SPACEAPPS CHALLENGE-link
+https://2017.spaceappschallenge.org/challenges/planetary-blues/wheres-water/teams/tech20-1/project
 
 ## Github-link
 https://github.com/techh20.io/
